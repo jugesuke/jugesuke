@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Static Badge](https://img.shields.io/badge/X-%40jugesuke-blue?style=flat&logo=X&link=https%3A%2F%2Ftwitter.com%2Fjugesuke)
+[![Static Badge](https://img.shields.io/badge/X-%40jugesuke-blue?style=flat&logo=X&link=https%3A%2F%2Ftwitter.com%2Fjugesuke)](https://x.com/jugesuke)
 
 ### Skills...
 <p align="center">
